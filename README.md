@@ -4,7 +4,11 @@ Esse é meu primeiro projeto de excel pelo Dio Santander.
 <!--
 **jrderick/jrderick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to ![print1](https://github.com/user-attachments/assets/e3c4e508-a637-4efd-ba67-0fa762791284)
+![print4](https://github.com/user-attachments/assets/1ee06017-99f6-4d1a-992e-35bdd2e74108)
+![print3](https://github.com/user-attachments/assets/b215d8d4-7101-46c8-9d5b-f9f70793bde6)
+![print2](https://github.com/user-attachments/assets/0b49a5bc-5354-464d-be57-6d4c4eb64315)
+get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
